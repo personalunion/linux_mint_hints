@@ -1,5 +1,5 @@
 # linux_mint_hints
-General info:
+General:
 
 [Main page](http://linuxmint.com/)
 
