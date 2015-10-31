@@ -1,5 +1,5 @@
 # linux_mint_hints
-General:
+General info:
 
 [Main page](http://linuxmint.com/)
 
@@ -9,3 +9,4 @@ Several problems fixed, occuring after every Linux Mint installation,
 including:
 
 - Brightness control
+- Disabling unwanted hibernation
