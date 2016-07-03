@@ -1,4 +1,4 @@
-# linux_mint_hints
+# Linux Mint hints
 
 General:
 
